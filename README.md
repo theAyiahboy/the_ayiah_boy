@@ -44,7 +44,7 @@ I am a learner in the <strong>ALX Backend Development Program</strong>, building
 ### 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=theAyiahguy&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 ---
